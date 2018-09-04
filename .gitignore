@@ -1,0 +1,4 @@
+dbdata/
+.env*
+.idea/
+**/.DS_Store
